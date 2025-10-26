@@ -1,192 +1,259 @@
-# Hi there, I'm Diyorbek Zokirov 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Diyorbek Zokirov
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+HumbleBee.ai;Machine+Learning+Enthusiast;Finance+%26+Tech+Innovator;Research+Assistant+%40+UT+Dallas;Founder+of+FinEcon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=900&color=000000&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Data+Scientist+%40+humblebee.ai)](https://git.io/typing-svg)
 
 </div>
 
+<!-- Social Links -->
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyorbek-zokirov-777har)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyorbekinvestormit@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-  
+  <br>
+  <a href="https://www.linkedin.com/in/diyorbek-zokirov-777har">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zokirovdiyorbek@inha.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/diyorbekzokirov">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
+## **About Me**
 
-```python
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-class DataScientist:
-    def __init__(self):
-        self.name = "Diyorbek Zokirov"
-        self.role = "Data Scientist @ HumbleBee.ai"
-        self.location = "Seoul Incheon Metropolitan Area 🇰🇷"
-        self.education = "BBA, International Business and Trade @ Inha University"
-        self.languages = ["Uzbek", "English", "Russian", "Korean"]
-        self.interests = ["Machine Learning", "Finance", "Data Analysis"]
-        
-    def current_focus(self):
-        return [
-            "Building AI solutions at HumbleBee.ai",
-            "Research at UT Dallas",
-            "Growing FinEcon community",
-            "Notion Campus Leadership"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing together!")
-
-me = DataScientist()
-me.say_hi()
+```javascript
+const diyorbek = {
+    role: "Data Scientist @ HumbleBee.ai",
+    location: "Seoul Incheon Metropolitan Area",
+    education: "BBA @ Inha University",
+    code: ["Python", "R", "SQL", "JavaScript"],
+    languages: ["Uzbek", "English", "Russian", "Korean"],
+    tools: {
+        ML: ["TensorFlow", "PyTorch", "Scikit-learn"],
+        Data: ["Pandas", "NumPy", "Spark"],
+        Viz: ["Matplotlib", "Plotly", "Tableau"],
+        Cloud: ["AWS", "GCP", "Azure"]
+    },
+    currentFocus: [
+        "Building AI solutions at HumbleBee.ai",
+        "Research at UT Dallas",
+        "Growing FinEcon community",
+        "Notion Campus Leadership"
+    ],
+    funFact: "I debug with coffee ☕ and deploy with confidence"
+};
 ```
 
----
+<br clear="both">
 
-## 💼 Current Roles
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| 🐝 **HumbleBee AI** | 🎯 **Notion Campus Leader** |
-|:---|:---|
-| **Data Scientist** | **Community Leader** |
-| *Sept 2025 - Present* | *Sept 2025 - Present* |
-| Building cutting-edge AI solutions | Leading Notion community initiatives |
+## **Tech Stack**
 
-| 🔬 **UT Dallas** | 💡 **FinEcon** |
-|:---|:---|
-| **Research Assistant** | **Founder** |
-| *Aug 2025 - Present* | *March 2025 - Present* |
-| Working with Prof. Botir Kobilov | Building financial education platform |
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<h3>Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Data Science & ML
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<h3>Data Science</h3>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-### Data Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<h3>Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</td>
+<td valign="top" width="50%">
+
+<h3>Machine Learning &amp; AI</h3>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
 </p>
 
-### Cloud & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<h3>Cloud &amp; DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### Productivity & Collaboration
-<p align="left">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
----
 
-## 📊 GitHub Stats
+## **GitHub Stats**
+
+</p>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyorbekzokirov&theme=tokyonight"
+    alt="Profile Details"
+  />
+</p>
+
+
+
+<!-- Stats + Languages -->
+<p align="center">
+  <img
+    height="195"
+    src="https://github-readme-stats.vercel.app/api?username=diyorbekzokirov&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=FF6B6B&icon_color=FFE66D&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+  <img
+    height="195"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekzokirov&layout=compact&langs_count=8&hide=html&title_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=diyorbekzokirov&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFE66D&currStreakNum=FFE66D&currStreakLabel=FF6B6B&sideNums=FFE66D&sideLabels=FF6B6B&dates=c9d1d9"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+## **Experience & Roles**
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diyorbekzokirov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekzokirov&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<table>
+  <thead>
+    <tr>
+      <th>Company/Organization</th>
+      <th>Role</th>
+      <th>Duration</th>
+      <th>Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>HumbleBee AI</b></td>
+      <td>Data Scientist</td>
+      <td>Sep 2025 – Present</td>
+      <td>AI Solutions</td>
+    </tr>
+    <tr>
+      <td><b>Notion</b></td>
+      <td>Campus Leader</td>
+      <td>Sep 2025 – Present</td>
+      <td>Community Building</td>
+    </tr>
+    <tr>
+      <td><b>UT Dallas</b></td>
+      <td>Research Assistant</td>
+      <td>Aug 2025 – Present</td>
+      <td>ML Research</td>
+    </tr>
+    <tr>
+      <td><b>FinEcon</b></td>
+      <td>Founder</td>
+      <td>Mar 2025 – Present</td>
+      <td>Financial Education</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+## **Featured Projects**
+
+<!-- Row 1 -->
+<p align="center">
+  <a href="https://github.com/diyorbekzokirov/Sales-Forecasting">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diyorbekzokirov&repo=Sales-Forecasting&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      alt="Sales-Forecasting"
+    />
+  </a>
+  <!-- Duplicate this <a>…</a> block for more repos -->
+  <!--
+  <a href="https://github.com/diyorbekzokirov/ML-Stock-Predictor">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diyorbekzokirov&repo=ML-Stock-Predictor&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      alt="ML-Stock-Predictor"
+    />
+  </a>
+  -->
+</p>
+
+## **Let's Connect!**
+
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diyorbekzokirov&theme=tokyonight)](https://git.io/streak-stats)
-  
+  <br>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&background=0D1117&center=true&vCenter=true&width=700&lines=Open+to+collaborations+and+discussions!;Let's+build+something+great+together."
+    alt="Typing intro"
+  />
+  <br><br>
+  <a href="https://www.linkedin.com/in/diyorbek-zokirov-777har">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:diyorbekinvestormit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://twitter.com/diyorbekzokirov">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://medium.com/@diyorbekzokirov">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </div>
 
-## 📈 Experience Timeline
+## **Random Dev Quote**
 
-```mermaid
-gantt
-    title Career Journey
-    dateFormat  YYYY-MM
-    section Education
-    Inha University BBA           :2022-09, 2026-07
-    section Professional
-    Undergraduate TA              :2024-02, 2024-06
-    Data Science Intern           :2025-02, 2025-06
-    M&A Analyst                   :2025-08, 2025-09
-    FinEcon Founder              :2025-03, 2025-10
-    Research Assistant           :2025-08, 2025-10
-    Notion Campus Leader         :2025-09, 2025-10
-    Data Scientist               :2025-09, 2025-10
-```
-
-
----
-
-## 💡 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect!
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&animation=grow_out_in"
+    alt="Random Dev Quote"
+  />
+</p>
 
 <div align="center">
-
-I'm always interested in collaborating on exciting data science and machine learning projects!  
-Feel free to reach out if you want to:
-
-💬 Discuss ML/AI projects  
-🤝 Collaborate on open source  
-📊 Talk about finance and data  
-☕ Just chat about tech!
-
-</div>
-
----
-
-<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=diyorbekzokirov&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/diyorbekzokirov?style=for-the-badge&color=FF6B6B&labelColor=0D1117&label=FOLLOWERS" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/diyorbekzokirov?style=for-the-badge&color=3FB950&labelColor=0D1117&label=STARS" alt="stars"/>
   
-### 📊 Profile Views
-  
-![](https://komarev.com/ghpvc/?username=diyorbekzokirov&color=blueviolet&style=for-the-badge)
-
-### ⭐ Show some love by starring some repositories!
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  ### ⭐ Thank you for visiting! ⭐
 </div>
