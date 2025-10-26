@@ -114,40 +114,33 @@ const diyorbek = {
 
 ## **GitHub Stats**
 
-</p>
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyorbekzokirov&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyorbekzokirov&theme=default"
     alt="Profile Details"
   />
 </p>
 
-
-
-<!-- Stats + Languages -->
+<!-- Stats + Languages (white bg) -->
 <p align="center">
   <img
     height="195"
-    src="https://github-readme-stats.vercel.app/api?username=diyorbekzokirov&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=FF6B6B&icon_color=FFE66D&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=diyorbekzokirov&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=2f80ed"
     alt="GitHub Stats"
   />
   <img
     height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekzokirov&layout=compact&langs_count=8&hide=html&title_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbekzokirov&layout=compact&langs_count=8&hide=html&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333"
     alt="Top Languages"
   />
 </p>
 
-<!-- Streak -->
+<!-- Streak (white bg) -->
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=diyorbekzokirov&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFE66D&currStreakNum=FFE66D&currStreakLabel=FF6B6B&sideNums=FFE66D&sideLabels=FF6B6B&dates=c9d1d9"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=diyorbekzokirov&theme=default&hide_border=false&background=FFFFFF"
     alt="GitHub Streak"
   />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 ## **Experience & Roles**
@@ -160,7 +153,6 @@ const diyorbek = {
       <th>Company/Organization</th>
       <th>Role</th>
       <th>Duration</th>
-      <th>Focus</th>
     </tr>
   </thead>
   <tbody>
@@ -168,25 +160,21 @@ const diyorbek = {
       <td><b>HumbleBee AI</b></td>
       <td>Data Scientist</td>
       <td>Sep 2025 – Present</td>
-      <td>AI Solutions</td>
     </tr>
     <tr>
       <td><b>Notion</b></td>
       <td>Campus Leader</td>
       <td>Sep 2025 – Present</td>
-      <td>Community Building</td>
     </tr>
     <tr>
       <td><b>UT Dallas</b></td>
       <td>Research Assistant</td>
       <td>Aug 2025 – Present</td>
-      <td>ML Research</td>
     </tr>
     <tr>
       <td><b>FinEcon</b></td>
       <td>Founder</td>
       <td>Mar 2025 – Present</td>
-      <td>Financial Education</td>
     </tr>
   </tbody>
 </table>
@@ -199,61 +187,27 @@ const diyorbek = {
 
 ## **Featured Projects**
 
-<!-- Row 1 -->
 <p align="center">
   <a href="https://github.com/diyorbekzokirov/Sales-Forecasting">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diyorbekzokirov&repo=Sales-Forecasting&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diyorbekzokirov&repo=Sales-Forecasting&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0969da&cache_seconds=86400"
       alt="Sales-Forecasting"
     />
   </a>
-  <!-- Duplicate this <a>…</a> block for more repos -->
-  <!--
-  <a href="https://github.com/diyorbekzokirov/ML-Stock-Predictor">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diyorbekzokirov&repo=ML-Stock-Predictor&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      alt="ML-Stock-Predictor"
-    />
-  </a>
-  -->
+  <!-- Duplicate the block above for more repos and change repo=... -->
 </p>
-
-## **Let's Connect!**
-
-<div align="center">
-  <br>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&background=0D1117&center=true&vCenter=true&width=700&lines=Open+to+collaborations+and+discussions!;Let's+build+something+great+together."
-    alt="Typing intro"
-  />
-  <br><br>
-  <a href="https://www.linkedin.com/in/diyorbek-zokirov-777har">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:diyorbekinvestormit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://twitter.com/diyorbekzokirov">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://medium.com/@diyorbekzokirov">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</div>
 
 ## **Random Dev Quote**
 
 <p align="center">
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&animation=grow_out_in"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&hide_border=false"
     alt="Random Dev Quote"
   />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=diyorbekzokirov&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/diyorbekzokirov?style=for-the-badge&color=FF6B6B&labelColor=0D1117&label=FOLLOWERS" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/diyorbekzokirov?style=for-the-badge&color=3FB950&labelColor=0D1117&label=STARS" alt="stars"/>
-  
-  ### ⭐ Thank you for visiting! ⭐
-</div>
+  <img src="https://komarev.com/ghpvc/?username=diyorbekzokirov&style=for-the-badge&color=2f80ed&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/diyorbekzokirov?style=for-the-badge&label=FOLLOWERS" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/diyorbekzokirov?style=for-the-badge&label=STARS" alt="stars"/>
+  </div>
