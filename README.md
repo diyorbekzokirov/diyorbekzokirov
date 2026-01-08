@@ -143,48 +143,6 @@ const diyorbek = {
   />
 </p>
 
-## **Experience & Roles**
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Company/Organization</th>
-      <th>Role</th>
-      <th>Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>HumbleBee AI</b></td>
-      <td>Data Scientist</td>
-      <td>Sep 2025 – Present</td>
-    </tr>
-    <tr>
-      <td><b>Notion</b></td>
-      <td>Campus Leader</td>
-      <td>Sep 2025 – Present</td>
-    </tr>
-    <tr>
-      <td><b>UT Dallas</b></td>
-      <td>Research Assistant</td>
-      <td>Aug 2025 – Present</td>
-    </tr>
-    <tr>
-      <td><b>FinEcon</b></td>
-      <td>Founder</td>
-      <td>Mar 2025 – Present</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
 ## **Featured Projects**
 
 <p align="center">
