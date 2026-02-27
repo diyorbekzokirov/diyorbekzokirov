@@ -1,5 +1,8 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Diyorbek Zokirov
 
+<div align="center">
+
+# Diyobek Zokirov
+  
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=900&color=B8860B&&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Data+Scientist+%40+humblebee.ai)](https://git.io/typing-svg)
