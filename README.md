@@ -51,7 +51,7 @@ const diyorbek = {
         "Growing FinEcon community",
         "Notion Campus Leadership"
     ],
-    funFact: "I debug with coffee ☕ and deploy with confidence"
+    funFact: "I debug with coffee and deploy with confidence"
 };
 ```
 
@@ -144,18 +144,6 @@ const diyorbek = {
     src="https://github-readme-streak-stats.herokuapp.com/?user=diyorbekzokirov&theme=default&hide_border=false&background=FFFFFF"
     alt="GitHub Streak"
   />
-</p>
-
-## **Featured Projects**
-
-<p align="center">
-  <a href="https://github.com/diyorbekzokirov/Sales-Forecasting">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diyorbekzokirov&repo=Sales-Forecasting&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0969da&cache_seconds=86400"
-      alt="Sales-Forecasting"
-    />
-  </a>
-  <!-- Duplicate the block above for more repos and change repo=... -->
 </p>
 
 ## **Random Dev Quote**
